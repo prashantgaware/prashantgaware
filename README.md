@@ -2,7 +2,7 @@
 - 👀 I’m into java and C# programming
 - 🌱 I’m currently learning microservices
 - 💞️ I’m looking to collaborate on any opensource project
-- 📫 How to reach me --> [prashantgaware](https://www.linkedin.com/in/prashant-gaware-756901237/) || https://twitter.com/__prash
+- 📫 How to reach me --> [prashantgaware](https://www.linkedin.com/in/prashant-gaware-756901237/) || [@__prash](https://twitter.com/__prash)
   
 <!---
 prashantgaware/prashantgaware is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
